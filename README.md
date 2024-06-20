@@ -1,5 +1,5 @@
 
-# Artifical Neural Network
+# Artifical Neural Network TWO Layers
 
 It is also called deep neural network or deep learning.
 
