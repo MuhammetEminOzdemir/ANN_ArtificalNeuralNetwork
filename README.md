@@ -1,3 +1,4 @@
+
 # Artifical Neural Network
 
 It is also called deep neural network or deep learning.
@@ -13,6 +14,8 @@ For example you have input, one hidden and output layers. When someone ask you "
 
 
 ![Ekran Resmi 2024-06-20 09 44 45](https://github.com/MuhammetEminOzdemir/ANN_ArtificalNeuralNetwork/assets/80462839/ebf3f03d-b26b-4bc4-8ed0-4509d43005e5)
+
+It is solved with the example of logistic regression application. It is a sequel. Just in case, I added the Logistic regression application to github. Good coding already
 
 # 2-Layer Neural Network Contents
 
