@@ -14,7 +14,7 @@ For example you have input, one hidden and output layers. When someone ask you "
 
 ![Ekran Resmi 2024-06-20 09 44 45](https://github.com/MuhammetEminOzdemir/ANN_ArtificalNeuralNetwork/assets/80462839/ebf3f03d-b26b-4bc4-8ed0-4509d43005e5)
 
-# 2-Layer Neural Network
+# 2-Layer Neural Network Contents
 
 Size of layers and initializing parameters weights and bias
 
