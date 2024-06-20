@@ -1,5 +1,7 @@
 
-# Artifical Neural Network TWO Layers
+# Artifical Neural Network TWO Layers Neural Network
+
+Kaggle Dataset: https://www.kaggle.com/datasets/ardamavi/sign-language-digits-dataset
 
 It is also called deep neural network or deep learning.
 
